@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "naziv": "Laptop",
+    "cena": 75000.0,
+    "kolicina": 10,
+    "brzaDostavaDani": 2,
+    "standardnaDostavaDani": 7,
+    "zemljaPorekla": "Kina"
+  },
+  {
+    "id": 2,
+    "naziv": "Pametni telefon",
+    "cena": 50000.0,
+    "kolicina": 15,
+    "brzaDostavaDani": 2,
+    "standardnaDostavaDani": 7,
+    "zemljaPorekla": "Južna Koreja"
+  },
+  {
+    "id": 3,
+    "naziv": "Televizor",
+    "cena": 60000.0,
+    "kolicina": 5,
+    "brzaDostavaDani": 3,
+    "standardnaDostavaDani": 10,
+    "zemljaPorekla": "Japan"
+  },
+  {
+    "id": 4,
+    "naziv": "Frižider",
+    "cena": 45000.0,
+    "kolicina": 8,
+    "brzaDostavaDani": 3,
+    "standardnaDostavaDani": 10,
+    "zemljaPorekla": "Nemačka"
+  },
+  {
+    "id": 5,
+    "naziv": "Veš mašina",
+    "cena": 40000.0,
+    "kolicina": 6,
+    "brzaDostavaDani": 3,
+    "standardnaDostavaDani": 10,
+    "zemljaPorekla": "Italija"
+  },
+  {
+    "id": 6,
+    "naziv": "Mikrotalasna pećnica",
+    "cena": 10000.0,
+    "kolicina": 12,
+    "brzaDostavaDani": 2,
+    "standardnaDostavaDani": 5,
+    "zemljaPorekla": "Kina"
+  },
+  {
+    "id": 7,
+    "naziv": "Usisivač",
+    "cena": 15000.0,
+    "kolicina": 7,
+    "brzaDostavaDani": 2,
+    "standardnaDostavaDani": 5,
+    "zemljaPorekla": "Češka"
+  },
+  {
+    "id": 8,
+    "naziv": "Pegla",
+    "cena": 5000.0,
+    "kolicina": 20,
+    "brzaDostavaDani": 1,
+    "standardnaDostavaDani": 4,
+    "zemljaPorekla": "Poljska"
+  },
+  {
+    "id": 9,
+    "naziv": "Šporet",
+    "cena": 30000.0,
+    "kolicina": 4,
+    "brzaDostavaDani": 3,
+    "standardnaDostavaDani": 7,
+    "zemljaPorekla": "Slovačka"
+  },
+  {
+    "id": 10,
+    "naziv": "Aparat za kafu",
+    "cena": 8000.0,
+    "kolicina": 10,
+    "brzaDostavaDani": 2,
+    "standardnaDostavaDani": 5,
+    "zemljaPorekla": "Švajcarska"
+  },
+  {
+    "id": 11,
+    "naziv": "Blender",
+    "cena": 3000.0,
+    "kolicina": 25,
+    "brzaDostavaDani": 1,
+    "standardnaDostavaDani": 4,
+    "zemljaPorekla": "Francuska"
+  },
+  {
+    "id": 12,
+    "naziv": "Toster",
+    "cena": 2500.0,
+    "kolicina": 18,
+    "brzaDostavaDani": 1,
+    "standardnaDostavaDani": 4,
+    "zemljaPorekla": "Austrija"
+  },
+  {
+    "id": 13,
+    "naziv": "Fen za kosu",
+    "cena": 3000.0,
+    "kolicina": 22,
+    "brzaDostavaDani": 1,
+    "standardnaDostavaDani": 4,
+    "zemljaPorekla": "Švedska"
+  },
+  {
+    "id": 14,
+    "naziv": "Klima uređaj",
+    "cena": 40000.0,
+    "kolicina": 3,
+    "brzaDostavaDani": 3,
+    "standardnaDostavaDani": 7,
+    "zemljaPorekla": "SAD"
+  },
+  {
+    "id": 15,
+    "naziv": "Radijator",
+    "cena": 20000.0,
+    "kolicina": 5,
+    "brzaDostavaDani": 2,
+    "standardnaDostavaDani": 6,
+    "zemljaPorekla": "Rusija"
+  }
+]
