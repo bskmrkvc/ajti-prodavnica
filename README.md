@@ -1,7 +1,7 @@
 AJ' TI PRODAVNICA app
 =================================
 
-
+Korisnicki interfejs i FE Android aplikacija onlajn prodavnice IT opreme napravljena koriscenjem Kotlin jezika + Material UI. 
 
 Getting Started
 ---------------
